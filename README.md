@@ -14,10 +14,12 @@ This means that the program participants are guaranteed and will immediately rec
 # How it works
 ## Implementation example for ETH Lisbon ticket sale
 You can test DRS right here and now and make sure it is revolutionary and transparent.
-1. Go to the web page: https://drp.theoldcastle.xyz/
+1. Go to the web page: https://theoldcastle.xyz/drs
 2. Buy a ticket to the ETH Lisbon event to log in to the system;
-3. Copy your referral link (It looks like this: https://drp.theoldcastle.xyz/?referral=[your_referral_id];
+3. Copy your referral link (It looks like this: https://theoldcastle.xyz/?referral=[your_referral_id];
 4. Share the referral link to get 10% for each user transaction.
+
+**When the invited user buys a ticket for $10, you will receive $1**
 
 ## Implementation examples for The Old Castle Defense
 ### Example 1:
@@ -33,8 +35,6 @@ You can test DRS right here and now and make sure it is revolutionary and transp
 3. The smart contract takes a commission of 6% from every $500, that is $30;
 4. Alice receives 10% of this commission, i.e. $3, in her wallet;
 5. In total, Alice received $3000 with the help of DRS.
-
-**When the invited user buys a ticket for $10, you will receive $1**
 
 # DRS flexibility
 1. You can use DRS in any of your projects!
