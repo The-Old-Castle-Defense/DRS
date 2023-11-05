@@ -2,13 +2,13 @@
 The Decentralized Referral System (DRS) is a unique and transparent referral system that is completely decentralized and allows you to track referrals instantly by paying rewards in your smart contract. 
 This means that the program participants are guaranteed and will immediately receive 10% of the commission fees paid by the invited user.
 
-* Smart payments
+* **Smart payments**
 : Payments are made by smart contracts automatically after each user transaction to a non-custodial wallet.
 
-* Transparency
+* **Transparency**
 : NO SCAM ANYMORE! All transactions are completely transparent and guaranteed through the use of smart contracts.
 
-* Earning Opportunity
+* **Earning Opportunity**
 : Users can earn real money by inviting new friends or users.
 
 # How it works
