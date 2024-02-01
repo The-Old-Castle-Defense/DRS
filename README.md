@@ -2,13 +2,13 @@
 The Decentralized Referral System (DRS) is a unique and transparent referral system that is completely decentralized and allows you to track referrals instantly by paying rewards in your smart contract. 
 This means that the program participants are guaranteed and will immediately receive 10% of the commission fees paid by the invited user.
 
-* Smart payments
+* **Smart payments**
 : Payments are made by smart contracts automatically after each user transaction to a non-custodial wallet.
 
-* Transparency
+* **Transparency**
 : NO SCAM ANYMORE! All transactions are completely transparent and guaranteed through the use of smart contracts.
 
-* Earning Opportunity
+* **Earning Opportunity**
 : Users can earn real money by inviting new friends or users.
 
 # How it works
@@ -23,11 +23,9 @@ You can test DRS right here and now and make sure it is revolutionary and transp
 
 <figure><img src="./content/ticket_step_2.jpg" alt=""><figcaption></figcaption></figure>
 
-4. Share the referral link to get 10% for each user transaction.
+4. Share the referral link to get 10% for each user transaction. **When the invited user buys a ticket for $10, you will receive $1**
 
 <figure><img src="./content/transaction_example.png" alt=""><figcaption>Example of the referral reward payment <a href="https://subnets-test.avax.network/en/beam/tx/0xcfe3301b68822280d67e1574465476a170bb6e041a4bcff304a386d60b3f4de1">transaction</a> when your friends invest.</figcaption></figure>
-
-**When the invited user buys a ticket for $10, you will receive $1**
 
 
 ## Implementation examples for The Old Castle Defense
